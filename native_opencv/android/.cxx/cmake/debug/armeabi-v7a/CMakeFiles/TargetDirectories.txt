@@ -1,0 +1,4 @@
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native_opencv.dir
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native_edge_detection.dir
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

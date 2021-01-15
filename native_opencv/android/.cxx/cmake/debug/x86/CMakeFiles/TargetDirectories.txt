@@ -1,0 +1,4 @@
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/x86/CMakeFiles/native_opencv.dir
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/x86/CMakeFiles/native_edge_detection.dir
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+E:/Android/scanner/native_opencv/android/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+1	6695	0	CMakeFiles/native_edge_detection.dir/E_/Android/scanner/native_opencv/ios/Classes/native_edge_detection.cpp.o	8ad24c531e64ad93
+105	6724	0	CMakeFiles/native_edge_detection.dir/E_/Android/scanner/native_opencv/ios/Classes/image_processor.cpp.o	d041b2b4d148ca50
+56	6998	0	CMakeFiles/native_edge_detection.dir/E_/Android/scanner/native_opencv/ios/Classes/edge_detector.cpp.o	ed55886e75fdbcd
+6998	7762	0	E:/Android/scanner/build/native_opencv/intermediates/cmake/debug/obj/armeabi-v7a/libnative_edge_detection.so	79f1b1b52bce2ed7
+1	2861	0	CMakeFiles/native_opencv.dir/E_/Android/scanner/native_opencv/ios/Classes/native_opencv.cpp.o	a99de4e10901aea8
+2861	3024	0	E:/Android/scanner/build/native_opencv/intermediates/cmake/debug/obj/armeabi-v7a/libnative_opencv.so	27ad415c6079d02b
